@@ -1,2 +1,2 @@
-# Doodle-Daily
+# Daily-Codepad
 Daily Code Exercises
